@@ -1,0 +1,4 @@
+D:\Projects\EFCodeFirstRepository\ProjectInfrustructure\bin\Debug\ProjectInfrustructure.dll
+D:\Projects\EFCodeFirstRepository\ProjectInfrustructure\bin\Debug\ProjectInfrustructure.pdb
+D:\Projects\EFCodeFirstRepository\ProjectInfrustructure\obj\Debug\ProjectInfrustructure.dll
+D:\Projects\EFCodeFirstRepository\ProjectInfrustructure\obj\Debug\ProjectInfrustructure.pdb

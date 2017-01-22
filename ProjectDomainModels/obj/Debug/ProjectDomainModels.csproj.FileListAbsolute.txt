@@ -1,0 +1,9 @@
+D:\Projects\药店连锁处方中心系统\EPCenter\CodeResource\ProjectDomainModels\bin\Debug\ProjectDomainModels.dll
+D:\Projects\药店连锁处方中心系统\EPCenter\CodeResource\ProjectDomainModels\bin\Debug\ProjectDomainModels.pdb
+D:\Projects\药店连锁处方中心系统\EPCenter\CodeResource\ProjectDomainModels\obj\Debug\ProjectDomainModels.dll
+D:\Projects\药店连锁处方中心系统\EPCenter\CodeResource\ProjectDomainModels\obj\Debug\ProjectDomainModels.pdb
+D:\Projects\EFCodeFirstRepository\ProjectDomainModels\bin\Debug\ProjectDomainModels.dll
+D:\Projects\EFCodeFirstRepository\ProjectDomainModels\bin\Debug\ProjectDomainModels.pdb
+D:\Projects\EFCodeFirstRepository\ProjectDomainModels\obj\Debug\ProjectDomainModels.dll
+D:\Projects\EFCodeFirstRepository\ProjectDomainModels\obj\Debug\ProjectDomainModels.pdb
+D:\Projects\EFCodeFirstRepository\ProjectDomainModels\obj\Debug\ProjectDomainModels.csprojResolveAssemblyReference.cache
