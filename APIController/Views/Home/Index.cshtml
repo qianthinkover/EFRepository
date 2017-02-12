@@ -1,4 +1,4 @@
-﻿<div class="jumbotron">
+﻿Demo<div class="jumbotron">
     <h1>ASP.NET</h1>
     <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
     <p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
@@ -21,4 +21,41 @@
         <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
         <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301872">Learn more &raquo;</a></p>
     </div>
+
+    <script>
+
+      
+
+        $(function () {
+            $.ajax({
+                url: 'http://localhost:10648/api/MutilGet/Demo2',
+                type: 'GET', //GET
+                //async: true,    //或false,是否异步
+                //data: {
+                //    name: 'yang', age: 25
+                //},
+                timeout: 5000,    //超时时间
+                dataType: 'json',    //返回的数据格式：json/xml/html/script/jsonp/text
+                beforeSend: function (xhr) {
+                    console.log(xhr)
+                    console.log('发送前')
+                },
+                success: function (data, textStatus, jqXHR) {
+                    console.log(data)
+                    console.log(textStatus)
+                    console.log(jqXHR)
+                },
+                error: function (xhr, textStatus) {
+                    console.log('错误')
+                    console.log(xhr)
+                    console.log(textStatus)
+                },
+                complete: function () {
+                    console.log('结束')
+                }
+            })
+        });
+
+    </script>
+
 </div>

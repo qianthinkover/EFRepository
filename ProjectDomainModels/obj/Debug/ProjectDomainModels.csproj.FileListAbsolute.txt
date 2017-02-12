@@ -7,3 +7,8 @@ D:\Projects\EFCodeFirstRepository\ProjectDomainModels\bin\Debug\ProjectDomainMod
 D:\Projects\EFCodeFirstRepository\ProjectDomainModels\obj\Debug\ProjectDomainModels.dll
 D:\Projects\EFCodeFirstRepository\ProjectDomainModels\obj\Debug\ProjectDomainModels.pdb
 D:\Projects\EFCodeFirstRepository\ProjectDomainModels\obj\Debug\ProjectDomainModels.csprojResolveAssemblyReference.cache
+D:\TFSProject\Framework\ProjectDomainModels\bin\Debug\ProjectDomainModels.dll
+D:\TFSProject\Framework\ProjectDomainModels\bin\Debug\ProjectDomainModels.pdb
+D:\TFSProject\Framework\ProjectDomainModels\obj\Debug\ProjectDomainModels.csprojResolveAssemblyReference.cache
+D:\TFSProject\Framework\ProjectDomainModels\obj\Debug\ProjectDomainModels.dll
+D:\TFSProject\Framework\ProjectDomainModels\obj\Debug\ProjectDomainModels.pdb

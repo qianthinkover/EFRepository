@@ -1,0 +1,5 @@
+D:\TFSProject\Framework\ProjectInfrastructure\bin\Debug\ProjectInfrastructure.dll
+D:\TFSProject\Framework\ProjectInfrastructure\bin\Debug\ProjectInfrastructure.pdb
+D:\TFSProject\Framework\ProjectInfrastructure\obj\Debug\ProjectInfrastructure.csprojResolveAssemblyReference.cache
+D:\TFSProject\Framework\ProjectInfrastructure\obj\Debug\ProjectInfrastructure.dll
+D:\TFSProject\Framework\ProjectInfrastructure\obj\Debug\ProjectInfrastructure.pdb
